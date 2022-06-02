@@ -1,0 +1,31 @@
+body {
+    background-color: #e3e9ff;
+}
+
+.nav-brand {
+    position: relative;
+    left: 5rem;
+    font-weight: 600;
+}
+
+.task-btn {
+    position: absolute;
+    left: 12rem;
+    font-weight: 600;
+    border: 1px solid #593196;
+    border-radius: 40px;
+    width: 150px !important;
+    height: 40px;
+    box-shadow: 4px 4px 7px 0px rgb(0 0 0 / 50%)
+}
+
+.add-btn {
+    font-weight: 600;
+    border: 1px solid #593196;
+    border-radius: 40px;
+    box-shadow: 4px 4px 7px 0px rgb(0 0 0 / 50%);
+}
+
+.shadow {
+    box-shadow: 0px 3px 10px 0px rgb(0 0 0 / 50%)
+}
